@@ -1,0 +1,18 @@
+{
+    "name": "zeantar/injection",
+    "description": "Runtime class methods patching in the name of chaos",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Zeantar\\Injection\\": "src/",
+            "Zeantar\\Injection\\Patch\\": "src/patch/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rorkh",
+            "email": "78957156+Rorkh@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
